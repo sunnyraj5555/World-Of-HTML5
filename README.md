@@ -1,5 +1,5 @@
 # World-Of-HTML5
-All HTML tags and info.
+All HTML tags and info.<br />
 1.<!DOCTYPE> Declaration
 
 - All HTML documents must start with a <!DOCTYPE> declaration.
