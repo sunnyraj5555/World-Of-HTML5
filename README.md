@@ -10,3 +10,11 @@ All HTML tags and info.<br />
 - **Tip:** The <!DOCTYPE> Declaration is NOT case sensitive
 Examples: <br />
 ![Examples](images/caseSence.png)
+
+## Html Syntax
+
+```<html>
+
+   </html>
+```
+
