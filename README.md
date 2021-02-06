@@ -13,7 +13,8 @@ Examples: <br />
 
 ## Html Syntax
 
-```<html>
+```
+      <html>
       <head> 
          <title></title>
       </head>
