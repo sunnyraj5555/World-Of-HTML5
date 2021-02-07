@@ -24,3 +24,12 @@ Examples: <br />
       </body>
    </html>
 ```
+
+## Paragraph Tag
+```<p> ..... </p>```
+## Formatting Tags
+- Bold and strong tag
+
+```     <b>...</b>
+   <strong>...</strong>
+```
