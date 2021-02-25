@@ -29,7 +29,14 @@ Examples: <br />
 ```<p> ..... </p>```
 ## Formatting Tags
 - Bold and strong tag
-
-```     <b>...</b>
-   <strong>...</strong>
 ```
+      <b>...</b>
+      <strong>...</strong>
+```
+
+- tallics and Emphasize
+```
+      <i>...</i> 
+      <em>...</em>
+```      
+      
